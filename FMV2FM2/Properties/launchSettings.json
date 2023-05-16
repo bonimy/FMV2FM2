@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FMV2FM2": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Nelson Garcia\\Games\\Emulation\\NES\\ROMs\\Super Mario Bros. 3\\Super Mario Bros. 3 (U) (PRG0) [!].nes\" \"C:\\Users\\Nelson Garcia\\Downloads\\mario3-full-tokushin.fmv\\mario3-full-tokushin.fmv\""
+    }
+  }
+}
